@@ -5,11 +5,14 @@ import NavBar from "../components/common/navBar";
 import Footer from "../components/common/footer";
 import Logo from "../components/common/logo";
 import Socials from "../components/about/socials";
+import FloatingBubbles from "../skills/skills";
+import EducationTimeline from "../components/education/EducationTimeline";
 
 import INFO from "../data/user";
 import SEO from "../data/seo";
 
 import "./styles/about.css";
+import Certifications from "../components/coursework/CourseWork";
 
 const About = () => {
 	useEffect(() => {
@@ -44,10 +47,32 @@ const About = () => {
 								<div className="title about-title">
 									{INFO.about.title}
 								</div>
-
+								<p><i>AI-Driven Marketing Strategist | Growth Catalyst | Data-Backed Brand Storyteller</i></p>
 								<div className="subtitle about-subtitle">
 									{INFO.about.description}
 								</div>
+								<div className="subtitle about-subtitle">
+								{INFO.about.description_2}
+								<FloatingBubbles />
+								</div>
+								<div className="subtitle about-subtitle">
+								<EducationTimeline />
+								</div>
+								<div className="subtitle about-subtitle">
+								<Certifications />
+								</div>
+								<div className="subtitle about-subtitle">
+								<a
+        href="https://syd-mushaf.tiiny.site" 
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-white bg-blue-500 hover:bg-blue-700 font-bold py-2 px-4 rounded"
+      >
+        View Resume
+      </a>
+									</div>
+								
+								
 							</div>
 
 							<div className="about-left-side">

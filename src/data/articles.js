@@ -2,10 +2,10 @@ import React from "react";
 
 function article_1() {
 	return {
-		date: "7 May 2023",
-		title: "The Benefits of Cloud Computing",
+		date: "17 January 2025",
+		title: "Mission Innovate Competition 2025",
 		description:
-			"Cloud computing offers a range of benefits, including cost savings and increased flexibility. Find out why more businesses are turning to the cloud.",
+			"My team secured the 2nd position in the prestigious Mission Innovate Competition 2025, organized by the Institute Innovation Cell S.E.N.A. (AIMK)! Our project, 'Hyperlocal Air Quality Monitoring System', was our passion to innovate for environmental sustainability and social impact. The journey was challenging, but our teamwork and determination paid off. We had the honor of presenting our idea to an esteemed panel of judges: Mr. Soumik Banerjee, Founder and Managing Director of Alpha Torana Mr. Arnab Chakrabortty, National Director of Empretec India Foundation (UNCTAD) I'm grateful for this enriching experience and the support of my amazing teammates and mentors. This achievement motivates me to continue exploring innovative solutions and contributing to meaningful change.",
 		keywords: [
 			"The Benefits of Cloud Computing",
 			"Tharindu",
@@ -60,6 +60,6 @@ function article_2() {
 	};
 }
 
-const myArticles = [article_1, article_2];
+const myArticles = [article_1];
 
 export default myArticles;

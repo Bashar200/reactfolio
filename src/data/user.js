@@ -1,36 +1,39 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "",
+		name: "Sayyed Musharraf Ali",
+		email: "sayyedmusharrafofficial77@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
 		twitter: "https://twitter.com/",
 		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
+		linkedin: "https://www.linkedin.com/in/sayyed-musharraf-ali-/",
 		instagram: "https://instagram.com/",
 		stackoverflow: "https://stackoverflow.com/",
 		facebook: "https://facebook.com/",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Bridging Business & Technology",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"I am an MBA Marketing Professional with a background in Electrical Engineering, passionate about marketing, product management, and business strategy. I enjoy leveraging data-driven insights, market analysis, and technical expertise to drive impactful solutions. Eager to learn and contribute, I am actively seeking internship and job opportunities where I can apply my skills and grow in marketing, product management, and related fields.",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "Hi, I'm Sayyed Musharraf Ali 👋",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"In today’s fast-paced digital world, businesses don’t just need marketing—they need AI-powered, data-driven marketing that delivers results. That’s where I come in. I specialize in leveraging cutting-edge AI technologies, consumer insights, and strategic storytelling to create high-impact marketing campaigns that drive brand growth, customer engagement, and business profitability.",
+		description_2:
+		"With an MBA in Marketing from the Army Institute of Management, Kolkata  and a strong analytical mindset from my engineering background, I bring a unique fusion of creativity and data intelligence to modern marketing. My expertise lies in crafting and executing performance-driven marketing strategies that blend traditional principles with next-gen AI tools, ensuring businesses stay ahead of the competition."
+
 	},
 
 	articles: {
 		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+			"Chronological collection of my long-form thoughts on courses, leadership, product design, management and more.",
 	},
 
 	projects: [
